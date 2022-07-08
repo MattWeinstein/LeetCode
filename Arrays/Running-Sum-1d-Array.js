@@ -28,3 +28,11 @@ var runningSum = function(nums) {
 };
 
 /*
+----Takeaways----
+Even though the majority of my code was correct for the first submission, a minor detail created an array of NaN values. 
+
+When reviewing code, take it step by step in order you would expect it to work. If something is out of order, this is how the computer will tell you it is surprised.
+
+Check your variables. Closely.
+
+*/
